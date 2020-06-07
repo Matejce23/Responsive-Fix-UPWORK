@@ -1,0 +1,245 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 450px) {
+    .price2-wrapper p {
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width: 600px) {
+.clip-row p {
+    font-size: 15px;
+}
+.p-text p {
+    font-size: 24px;
+    margin-bottom: 2px;
+}
+.price2-wrapper p {
+    font-size: 13px;
+    font-family: LocalizaDINDisplay-Bold;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+
+.calculation-selection-section .sel-col .price-col .price2-wrapper .small-price-wrapper {
+    height: 160px;
+}
+.calculation-selection-section .sel-col .tax-col .exlus-row {
+    margin-bottom: 0px;
+  } 
+  .cst-width {
+      width: 73px;
+  }
+  .col-form-label {
+    width: 96px;
+  }
+  .calculation-selection-section .sel-col .dropdown-col > select {
+    width: 80%;
+}
+.calculation-selection-section .sel-col .dropdown-col .arrow-select-wrapper select {
+    width: 100%;
+}
+.calculation-selection-section .sel-col .price-col .price1-wrapper .price1 {
+    line-height: 164px;
+    font-size: 169px;
+}
+.calculation-selection-section .sel-col .price-col .price2-wrapper .small-price-wrapper .price2 {
+    font-size: 101px;
+    line-height: 165px;
+    margin-top: 44px;
+  }
+  .price2-wrapper p {
+    font-size: 25px;
+}
+.calculation-selection-section .sel-col .tax-col .exclus::before {
+    background-size: 87px 42px;
+    top: 16px;
+    left: 0;
+}
+#prob-text {
+    margin-top: 70px;
+}
+} 
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .p-text p {
+        font-size: 28px;
+        margin-bottom: 2px;
+    }
+    .calculation-selection-section .sel-col .dropdown-col > select {
+        width: 50%;
+    }
+    .calculation-selection-section .sel-col .dropdown-col .arrow-select-wrapper select {
+        width: 70%;
+    }
+    .calculation-selection-section .sel-col .price-col .price1-wrapper .price1 {
+        line-height: 164px;
+        font-size: 169px;
+    }
+    .calculation-selection-section .sel-col .price-col .price2-wrapper .small-price-wrapper .price2 {
+        font-size: 150px;
+        line-height: 165px;
+        margin-top: 44px;
+      }
+      .price2-wrapper p {
+        font-size: 40px;
+    }
+    .calculation-selection-section .sel-col .tax-col .exclus::before {
+        background-size: 96px 56px;
+        top: 10px;
+        left: -6px;
+    }
+    #prob-text {
+        margin-top: 70px;
+    }
+    
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .calculation-selection-section .sel-col .price-col .price1-wrapper .price1 {
+        line-height: 116px;
+        font-size: 131px;
+    }
+    .calculation-selection-section .sel-col .price-col .price2-wrapper .small-price-wrapper .price2 {
+        font-size: 150px;
+        line-height: 165px;
+        margin-top: 44px;
+      }
+    .price2-wrapper p {
+        font-size: 24px;
+    }
+    .calculation-selection-section .sel-col .tax-col .exlus-row .text-line {
+        font-size: 34px;
+    }
+    .calculation-selection-section .sel-col .tax-col .exclus::before {
+        background-size: 96px 56px;
+        top: 10px;
+        left: -6px;
+    }
+    .text-container p {
+        text-align: left !important;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    
+}
+@media only screen and (min-width: 1000px) {
+    .calculation-selection-section .sel-col .dropdown-col > select {
+        font-size: 28px;
+    }
+    .calculation-selection-section .sel-col .dropdown-col .arrow-select-wrapper select {
+        font-size: 28px;
+    }
+    .calculation-selection-section .sel-col .price-col .price1-wrapper .price1 {
+        line-height: 110px;
+        font-size: 134px;
+    }
+    .calculation-selection-section .sel-col .price-col .price2-wrapper .small-price-wrapper .price2 {
+        font-size: 90px;
+        line-height: 124px;
+        margin-top: 30px;
+      }
+      .price2-wrapper p {
+        font-size: 16px;
+    }
+    .p-text p {
+        font-size: 17px;
+        margin-bottom: 2px;
+        padding-left: 22px;
+    }
+    .calculation-selection-section .sel-col .tax-col .exclus::before {
+        background-size: 87px 42px;
+        top: 16px;
+        left: 0;
+    }
+    .calculation-selection-section .sel-col .dropdown-col > select {
+        width: 100%;
+    }
+    .calculation-selection-section .sel-col .dropdown-col .arrow-select-wrapper select {
+        width: 100%;
+    }
+
+}
+@media only screen and (min-width: 1100px) {
+    .calculation-selection-section .sel-col .dropdown-col > select {
+        font-size: 33px;
+    }
+    .calculation-selection-section .sel-col .dropdown-col .arrow-select-wrapper select {
+        font-size: 33px;
+    }
+    .calculation-selection-section .sel-col .price-col .price1-wrapper .price1 {
+        line-height: 110px;
+        font-size: 184px;
+    }
+    .calculation-selection-section .sel-col .price-col .price2-wrapper .small-price-wrapper .price2 {
+        font-size: 131px;
+        line-height: 147px;
+        margin-top: 30px;
+      }
+      .price2-wrapper p {
+        font-size: 18px;
+    }
+    .p-text p {
+        font-size: 20px;
+        margin-bottom: 2px;
+        padding-left: 9px;
+    }
+    .calculation-selection-section .sel-col .tax-col .exlus-row .text-line {
+        font-size: 44px;
+    }
+    .calculation-selection-section .sel-col .tax-col .exclus::before {
+        background-size: 96px 56px;
+        top: 10px;
+        left: -6px;
+    }
+    .calculation-selection-section .sel-col .dropdown-col > select {
+        width: 100%;
+    }
+    .calculation-selection-section .sel-col .dropdown-col .arrow-select-wrapper select {
+        width: 100%;
+    }
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .calculation-selection-section .sel-col .dropdown-col > select {
+        font-size: 35px;
+    }
+    .calculation-selection-section .sel-col .dropdown-col .arrow-select-wrapper select {
+        font-size: 35px;
+    }
+    .calculation-selection-section .sel-col .price-col .price1-wrapper .price1 {
+        line-height: 150px;
+        font-size: 202px;
+    }
+    .calculation-selection-section .sel-col .price-col .price2-wrapper .small-price-wrapper .price2 {
+        font-size: 162px;
+        line-height: 168px;
+        margin-top: 30px;
+      }
+      .price2-wrapper p {
+        font-size: 25px;
+    }
+    .p-text p {
+        font-size: 26px;
+        margin-bottom: 2px;
+        padding-left: 5px;
+    }
+    .calculation-selection-section .sel-col .tax-col .exlus-row .text-line {
+        font-size: 44px;
+    }
+    .calculation-selection-section .sel-col .tax-col .exclus::before {
+        background-size: 96px 56px;
+        top: 10px;
+        left: -6px;
+    }
+    .calculation-selection-section .sel-col .dropdown-col > select {
+        width: 90%;
+    }
+    .calculation-selection-section .sel-col .dropdown-col .arrow-select-wrapper select {
+        width: 100%;
+    }
+
+}
